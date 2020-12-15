@@ -19,19 +19,18 @@
     .container {
         width: 1100px;
     }
-    
 }
 
-@font-face{
-    font-family: 'myFont';
-    src: url("../asset/font/ロゴたいぷゴシック.woff2") format("woff2"),
-//    src: url('../asset/font/ロゴたいぷゴシック.woff2');
-}
-@font-face{
-    font-family: 'Noto Sans JP';
-    src: url("../asset/font/NotoSansJP-Regular.woff2") format("woff2"),
-//    src: url('../asset/font/NotoSansJP-Regular.woff2');
-}
+//@font-face{
+//    font-family: 'myFont';
+//    src: url("../asset/font/ロゴたいぷゴシック.woff2") format("woff2"),
+////    src: url('../asset/font/ロゴたいぷゴシック.woff2');
+//}
+//@font-face{
+//    font-family: 'Noto Sans JP';
+//    src: url("../asset/font/NotoSansJP-Regular.woff2") format("woff2"),
+////    src: url('../asset/font/NotoSansJP-Regular.woff2');
+//}
 body.body-add {
     font-family: "Noto Sans JP";
 }
@@ -43,6 +42,13 @@ html {
     display: block;
 }
 .is-sp {
+    display: none;
+}
+.is-mid-pc {
+    display: block;
+}
+
+.is-mid-sp {
     display: none;
 }
 
@@ -124,7 +130,7 @@ html {
                         line-height: 1;
                         font-size: 60px;
                         font-weight: bold;
-                        font-family: "myFont";
+//                        font-family: "myFont";
                         span {
                             color: #66bc25;
                         }
@@ -790,7 +796,13 @@ footer {
 
 
 @media (max-width: 992px){
-    
+    .is-mid-pc {
+        display: none;
+    }
+
+    .is-mid-sp {
+        display: block;
+    }
     .wrap header {
         .header-inner {
             .row {
@@ -938,6 +950,12 @@ footer {
         display: none;
     }
     .is-sp {
+        display: block;
+    }
+    .is-mid-pc {
+        display: none;
+    }
+    .is-mid-sp {
         display: block;
     }
     .wrap {
