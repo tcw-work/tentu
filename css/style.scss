@@ -1078,6 +1078,7 @@ footer {
                                 button {
                                     width: 21px;
                                     height: 21px;
+                                    padding: 0px;
                                 }
                             }
                         }
@@ -1331,7 +1332,8 @@ footer {
                         .estimation-inner {
                             p {
                                 strong {
-                                    font-size: 33px;
+                                    font-size: 30px;
+                                    letter-spacing: 3px;
                                     a {
                                         color: #5d4600;
                                     }

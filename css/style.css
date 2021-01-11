@@ -641,7 +641,8 @@ footer {
       margin-bottom: 50px; }
       .wrap main .block .block-area01 .slide .slick-dots li button {
         width: 21px;
-        height: 21px; }
+        height: 21px;
+        padding: 0px; }
     .wrap main .block .block-area02 .block-area02-01 {
       width: 100%;
       margin: 0 auto 0;
@@ -775,7 +776,8 @@ footer {
     .wrap main aside .side-inner .estimation {
       margin-bottom: 10px; }
       .wrap main aside .side-inner .estimation .estimation-inner p strong {
-        font-size: 33px; }
+        font-size: 30px;
+        letter-spacing: 3px; }
         .wrap main aside .side-inner .estimation .estimation-inner p strong a {
           color: #5d4600; }
 
