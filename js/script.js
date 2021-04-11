@@ -71,9 +71,9 @@ $(window).bind("load", function(){
     if(url == "https://tentucare.com/"){
         $(".nav-first").addClass("nav-active");
 
-        document.title="【公式】民間救急搬送・テンツーケア | 全国どこへでも対応！";
+        document.title="【公式】介護タクシー・テンツーケア | 全国どこへでも対応！";
         $(function(){
-            $("meta[name ='description']").attr('content','テンツーケアは24時間ご対応可能な民間救急搬送サービスです。武蔵野市を中心に都内全域、関東・関西など、日本全国どこへでも搬送が可能です。');
+            $("meta[name ='description']").attr('content','テンツーケアは24時間ご対応可能な介護タクシー（民間救急搬送）サービスです。武蔵野市を中心に都内全域、関東・関西など、日本全国どこへでも搬送が可能です。');
             $("meta[name ='keyword']").attr('content','テンツーケア,介護タクシー,民間救急搬送,介護タクシー 都内,介護タクシー 武蔵野市,介護タクシー 転院 武蔵野市,民間救急搬送 武蔵野市,介護タクシー 全国対応');
         });
     }
@@ -81,9 +81,9 @@ $(window).bind("load", function(){
     if(url == "https://tentucare.com/index.html"){
         $(".nav-first").addClass("nav-active");
 
-        document.title="【公式】民間救急搬送・テンツーケア | 全国どこへでも対応！";
+        document.title="【公式】介護タクシー・テンツーケア | 全国どこへでも対応！";
         $(function(){
-            $("meta[name ='description']").attr('content','テンツーケアは24時間ご対応可能な民間救急搬送サービスです。武蔵野市を中心に都内全域、関東・関西など、日本全国どこへでも搬送が可能です。');
+            $("meta[name ='description']").attr('content','テンツーケアは24時間ご対応可能な介護タクシー（民間救急搬送）サービスです。武蔵野市を中心に都内全域、関東・関西など、日本全国どこへでも搬送が可能です。');
             $("meta[name ='keyword']").attr('content','テンツーケア,介護タクシー,民間救急搬送,介護タクシー 都内,介護タクシー 武蔵野市,介護タクシー 転院 武蔵野市,民間救急搬送 武蔵野市,介護タクシー 全国対応');
         });
     }
@@ -103,9 +103,9 @@ $(window).bind("load", function(){
     if(document.URL.match("/instrument.html")) {
         $(".nav-second").addClass("nav-active");
 
-        document.title="【公式】民間救急搬送・テンツーケア 搬送器具について";
+        document.title="【公式】介護タクシー・テンツーケア 搬送器具について";
         $(function(){
-            $("meta[name ='description']").attr('content','テンツーケアの「搬送器具」について記載してあります。予め必要な器具をご確認の上、スタッフまでお申し付けください。');
+            $("meta[name ='description']").attr('content','介護タクシー・テンツーケアの「搬送器具」について記載しております。予め必要な器具をご確認の上、スタッフまでお申し付けください。');
             $("meta[name ='keyword']").attr('content','テンツーケア,介護タクシー,民間救急搬送,搬送器具,リフト付き車両,正弦波電源,ストレッチャー・リクライニング,車いす,吸引機,酸素・吸引機,防護マスク,法定感染症防護服');
 
         });
@@ -114,9 +114,9 @@ $(window).bind("load", function(){
     if(document.URL.match("/process.html")) {
         $(".nav-third").addClass("nav-active");
 
-        document.title="【公式】民間救急搬送・テンツーケア 搬送の流れについて";
+        document.title="【公式】介護タクシー・テンツーケア 搬送の流れについて";
         $(function(){
-            $("meta[name ='description']").attr('content','テンツーケアの「搬送の流れ」について記載してあります。初めて搬送サービスをご利用さる方や、テンツーケアでのご予約の流れなどもご確認いただけます。');
+            $("meta[name ='description']").attr('content','介護タクシー・テンツーケアの「搬送の流れ」について記載しております。初めて搬送サービスをご利用さる方や、テンツーケアでのご予約の流れなどもご確認いただけます。');
             $("meta[name ='keyword']").attr('content','テンツーケア,介護タクシー,民間救急搬送,介護タクシー 全国対応,介護タクシー 関東 搬送,搬送の流れ');
 
         });
@@ -125,9 +125,9 @@ $(window).bind("load", function(){
     if(document.URL.match("/information.html")) {
         $(".nav-last").addClass("nav-active");
 
-        document.title="【公式】民間救急搬送・テンツーケア お知らせについて";
+        document.title="【公式】介護タクシー・テンツーケア お知らせについて";
         $(function(){
-            $("meta[name ='description']").attr('content','テンツーケアの「お知らせ」について記載してあります。');
+            $("meta[name ='description']").attr('content','介護タクシー・テンツーケアの「お知らせ」について記載しております。');
             $("meta[name ='keyword']").attr('content','テンツーケア,介護タクシー,民間救急搬送,テンツーケア お知らせ');
         });
     }
