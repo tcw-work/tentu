@@ -384,12 +384,16 @@ body.body-add {
 }
 
 .wrap main .block .block-area02 .block-area02-01 .row .col-md-4 p {
-  width: 180px;
+  width: 198px;
   margin: 20px auto 0px;
 }
 
 .wrap main .block .block-area02 .block-area02-01 .row .col-md-4 p.feature-img {
   margin: 10px auto 0px;
+}
+
+.wrap main .block .block-area02 .block-area02-01 .row .col-md-4 p.feature-description {
+  text-align: left;
 }
 
 .wrap main .block .block-area02 .instrument-block {
